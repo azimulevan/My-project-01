@@ -154,7 +154,8 @@
   
     .card-img {
       margin-left: 90px; /* Remove left margin to fit the screen width */
-      margin-bottom: 10px; /* Add bottom margin for spacing */
+      margin-bottom: px;
+      margin-top: 20px;/* Add bottom margin for spacing */
     }
   
     .card-title, .card-para {
