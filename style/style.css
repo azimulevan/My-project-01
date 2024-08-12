@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
+.patua-one-regular {
+    font-family: "Patua One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+ 
+ /*part-1*/
+.main-header{
+  max-width: 1440px;
+  height: auto;
+  border: none;
+  background-color: wheat;
+}
+
+.nav-flex{
+  display: flex;
+  justify-content: space-evenly;
+}
+.head-title{
+  font-size: 3rem;
+  color: black;
+}
+.btn-div{
+  margin-top: 80px;
+}
+.btn{
+  margin-left: 10px;
+  padding: 10px 20px;
+  border: none;
+  background-color: rgb(177, 202, 34);
+  color:black;
+  border-radius: 10px;
+
+}
+
+.hambar{
+  display: none;
+  margin-top: 2px;
+  
+  color: rgb(255, 250, 250);
+  font-size: 2.50rem;
+}
+
+
+  
+
+
+
+
+.title-2{
+  font-size: 3rem;
+  font-weight: 700;
+  color: aliceblue;
+  margin-left: 305px
+}
+
+.header-para{
+  margin-left: 305px;
+  font-size: 14px;
+  color: rgb(223, 189, 145);
+  margin-top:-1pc;
+  
+}
+
+
+.head-btn{
+  margin-left: 305px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-weight: 800;
+  background-color: rgb(177, 202, 34);
+}
+
+
+.arrow{
+  font-weight: 900;
+  
+
+}
+
+
+
+.banner-flex{
+  display: flex;
+  
+}
+.banner{
+ max-width: 500px;
+ margin-left: 100px;
+}
+
+.rate{
+  display: flex;
+  justify-content: space-evenly;
+ padding: 0px 30px;
+ margin-top: -8pc;
+ margin-left: 210px;
+ background-color: wheat;
+ border: none;
+}
+
+#star{
+  margin-top: 42px;
+  font-size: 2rem;
+  color: gold;
+}
+.rate-para{
+  margin-top: -1.5pc;
+  color: black;
+
+}
+
+.rate-div{
+  text-align: left;
+  margin-left: 10px;
+}
+
+.main-rate{
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+
+
+
+
+
+
+
+ /*part-2*/
+
+ .section-1{
+  max-width: 1440px;
+  height: 600px;
+  border: 2px solid wheat;
+  background-color:wheat;
+  margin-top: -2.5pc;
+ }
+
+ 
+
+ .section-1-title{
+  font-size: 3rem;
+  font-weight: 800;
+  text-align: center;
+  color: black;
+  margin-top: 100px;
+  } 
+  .section-1-para{
+  text-align: center;
+  color: rgb(223, 189, 145);
+}
+.card{
+  display: flex;
+  justify-content: space-around;
+ margin-top: 80px;
+}
+
+
+
+.main-card{
+  max-width: 350px;
+  border: -1px solid silver;
+  height: 320px;
+background-color:whitesmoke ;
+  
+}
+
+.card-img{
+margin-left: 30px;
+}
+
+.card-title{
+  text-align: center;
+}
+.card-para{
+  text-align: center;
+  color:rgb(155, 133, 105) ;
+}
+
+
+/*part-3*/
+.section-2{
+  max-width: 1440px;
+  height: 680px;
+  border: 2px solid wheat;
+  background-color: wheat;
+  
+}
+
+.frist-box{
+  width: 220px;
+  height: 140px;
+  border:none;
+  border-radius: 20px;
+  margin-top: 80px;
+  margin-left: 100px;
+  background-color: rgb(229, 211, 217);
+}
+
+.img-box{
+  max-width: 250px;
+  height: 330px;
+  border: none;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: 100px;
+  background-color: rgb(166, 244, 185);
+
+}
+
+
+
+.img-ff{
+  margin-top: 30px;
+  margin-left: 38px;
+}
+
+
+.img-fff{
+  margin-top: 30px;
+  margin-left: 32px;
+
+
+}
+
+.img-box-00{
+  max-width: 250px;
+  height: 330px;
+  border: none;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-top: 80px;
+  background-color:rgb(229, 211, 217) ;
+}
+
+.box-99{
+  width: 245px;
+  height: 140px;
+  border: none;
+  border-radius: 20px;
+  margin-top: 50px;
+  background-color: rgb(166, 244, 185);
+  
+
+}
+
+
+.flex-box{
+  display: flex;
+  
+}
+
+
+
+
+.container{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+
+.title-00{
+  font-size: 3rem;
+}
+.title-01{
+  font-size: 1.5rem;
+}
+.title-02{
+  font-size: 1.5rem;
+
+}
+
+.title-009{
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+.title-paraa{
+  margin-top: -7px;
+  color: rgb(186, 158, 107);
+}
