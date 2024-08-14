@@ -286,3 +286,215 @@ margin-top: 20px;
   margin-top: -7px;
   color: rgb(186, 158, 107);
 }
+
+
+
+
+
+/*part 4*/
+.section-3{
+  max-width: 1440px;
+  height: 770px;
+  border: 2px solid wheat;
+  background-color: wheat;
+}
+
+
+.section-3-div-1{
+  width: 950px;
+  height: 600px;
+  border: 2px solid orangered;
+  margin-left: 240px;
+  margin-top: 80px;
+  border-radius: 20px;
+  background-color: orangered;
+ 
+  
+
+}
+
+.section-3-head{
+  font-size: 2.5rem;
+  color: antiquewhite;
+}
+
+
+
+.section-3-div-2{
+  margin-top: 180px;
+  margin-left: 100px;
+}
+
+.section-3-btn{
+  padding: 10px 20px;
+  color: black;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  border:  none;
+}
+
+.section-3-para{
+  color: rgb(223, 189, 145);
+  
+}
+
+
+.section-3-div-3{
+  width: 250px;
+  height: 200px;
+  border: 2px solid  rgb(223, 197, 163);
+  margin-top: 85px;
+  margin-left: 170px;
+  background-color: rgb(223, 197, 163);
+  border-radius: 7px;
+
+
+}
+
+
+
+.section-3-div-4{
+  width: 250px;
+  height: 200px;
+  border: 2px solid rgb(223, 197, 163);
+  margin-top:  -9.5pc;
+  margin-left: 655px;
+  background-color: rgb(223, 197, 163);
+  border-radius: 7px;
+
+
+}
+
+
+.section-0007{
+  display: flex;
+
+}
+
+
+.img-c{
+  margin-top: -2pc;
+  margin-left: -2pc;
+  border: 3px solid antiquewhite;
+  background-color: rgb(228, 214, 197);
+  border-radius: 30px;
+}
+
+
+.paraaa{
+  color: rgb(126, 100, 68);
+  margin-top: -8px;
+}
+
+  
+  .parra{
+    margin-top: -1.5pc;
+    color: rgb(173, 193, 211);
+  }
+
+
+
+  .section-3-div-99{
+    width: 250px;
+  height: 200px;
+  border: 2px solid antiquewhite;
+  margin-top:  20px;
+  margin-left: -8pc;
+  background-color: rgb(255, 255, 255);
+  border-radius: 7px;
+
+  }
+
+  .paraaa-1{
+    margin-top: 20px;
+    color: rgb(126, 100, 68);
+  }
+
+
+.paraaa-00{
+  color: rgb(19, 18, 18);
+}
+
+
+
+
+
+
+
+
+
+
+
+/*footer*/
+.main-footer{
+  max-width: 1440px;
+  height: 500px;
+  border: 2px solid wheat;
+  background-color: wheat;
+}
+
+
+
+
+
+
+.footer-div-1{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+  gap: 250px;
+  
+}
+
+.footer-img{
+  margin-left: 10px;
+}
+
+
+.footer-btn{
+  padding: 15px 30px;
+  border-radius: 8px;
+  border: none;
+  background-color: orangered ;
+  color: antiquewhite;
+}
+
+.footer-flex-2{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.footer-div-09{
+  margin-left: 80px;
+}
+.footer-div-08{
+ margin-right: 50px;
+}
+
+
+#arrow{
+  border: 2px solid orangered;
+  padding: 3px 6px;
+  border-radius: 30px;
+  background-color: orangered;
+  
+  color: antiquewhite;
+}
+.icon{
+  margin-top: 20px;
+  
+  margin-left: 0px;
+  
+}
+#ins{
+  margin-left: 5px;
+}
+  #twi{
+   margin-left: 5px;
+  }
+
+
+  .last{
+    text-align: center;
+    margin-top: 70px;
+  }
