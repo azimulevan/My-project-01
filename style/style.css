@@ -303,11 +303,11 @@ margin-top: 20px;
 .section-3-div-1{
   width: 950px;
   height: 600px;
-  border: 2px solid orangered;
+  border: 2px solid background-image: linear-gradient(to right top, #fefedf, #efe1ae, #e6c180, #e09f59, #db793b, #db793b, #db793b, #db793b, #e09f59, #e6c180, #efe1ae, #fefedf);
   margin-left: 240px;
   margin-top: 80px;
   border-radius: 20px;
-  background-color: orangered;
+  background-image: linear-gradient(to right top, #fefedf, #efe1ae, #e6c180, #e09f59, #db793b, #db793b, #db793b, #db793b, #e09f59, #e6c180, #efe1ae, #fefedf);
  
   
 
